@@ -1,6 +1,6 @@
 # YDB zlib Plugin
 
-##OVERVIEW##
+## OVERVIEW
 
 YDBzlib is a simple plugin to allow M application code to use zlib
 (http://zlib.net) to compress and uncompress string data.  YDBzlib is
@@ -64,7 +64,7 @@ z="1.2.3.4"
 YDB>
 ```
 
-##INSTALLATION##
+## INSTALLATION
 
 YDBzlib consists of three code files - gtmzlib.c, gtmzlib.xc, and
 _ZLIB.m - and one readme.txt.  It may also contain a COPYING file
@@ -164,7 +164,7 @@ t=0
 GTM>
 ```
 
-##PLEASE NOTE##
+## PLEASE NOTE
 
 zlib is not YottaDB software and is not supported as part of YottaDB
 support.  YottaDB strongly encourages you to ensure that you have
